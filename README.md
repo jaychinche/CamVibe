@@ -82,6 +82,5 @@ I’m excited to announce the completion of the CamVibe project! This full-stack
 
 
 
-The frontend is deployed using Netlify, while the backend is hosted on Render. This project has given me a great opportunity to learn and utilize both platforms effectively.
 
 
