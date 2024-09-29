@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-09-16 at 6 38 47 PM" src="https://github.com/user-attachments/assets/54d46582-dee8-4bcb-ac65-10d04e7b0712">#  CamVibe
+#  CamVibe
 This full-stack video calling app replicates Zoom’s key features, such as peer-to-peer video calls, real-time messaging, and screen sharing.
 
 # Project Overview:
