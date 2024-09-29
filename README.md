@@ -35,6 +35,8 @@ This full-stack video calling app replicates Zoom’s key features, such as peer
 
 <img width="1440" alt="Screenshot 2024-09-17 at 1 31 28 PM" src="https://github.com/user-attachments/assets/fb0160b7-e6cd-4559-8dca-66fd2921ad04">
 
+
+
 The frontend is deployed using Netlify, while the backend is hosted on Render. This project has given me a great opportunity to learn and utilize both platforms effectively.
 
 
