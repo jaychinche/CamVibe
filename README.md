@@ -1,4 +1,4 @@
-#  CamVibe
+<img width="1440" alt="Screenshot 2024-09-16 at 6 38 47 PM" src="https://github.com/user-attachments/assets/54d46582-dee8-4bcb-ac65-10d04e7b0712">#  CamVibe
 This full-stack video calling app replicates Zoom’s key features, such as peer-to-peer video calls, real-time messaging, and screen sharing.
 
 # Project Overview:
@@ -15,29 +15,25 @@ This full-stack video calling app replicates Zoom’s key features, such as peer
 * Secure Authentication
 
 # Ouput:
-<img width="1440" alt="Screenshot 2024-09-16 at 6 35 23 PM" src="https://github.com/user-attachments/assets/da744456-81be-4235-82a7-825ad6786582">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 35 23 PM" src="https://github.com/user-attachments/assets/33aa8def-e6c5-49ed-a566-ca4c4c3b1cf5">
 
-<img width="1440" alt="Screenshot 2024-09-16 at 6 38 47 PM" src="https://github.com/user-attachments/assets/eb5ac84f-9af8-4312-8cb8-11ce372bcb66">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 38 47 PM" src="https://github.com/user-attachments/assets/9926ea75-b442-4eb5-808d-ec7c80d22f11">
 
-<img width="1440" alt="Screenshot 2024-09-16 at 6 43 19 PM" src="https://github.com/user-attachments/assets/003e9e28-be9c-4f5c-b243-d7f06e5e7888">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 43 19 PM" src="https://github.com/user-attachments/assets/a71cd921-ac25-4922-a21e-e08645ebdee8">
 
-<img width="1440" alt="Screenshot 2024-09-16 at 6 44 28 PM" src="https://github.com/user-attachments/assets/810ae545-38be-4e89-84a4-3a771a682344">
-
-
-<img width="1440" alt="Screenshot 2024-09-16 at 6 44 40 PM" src="https://github.com/user-attachments/assets/9956c813-1915-4dd6-b1f8-dbbbd99f484f">
-
-<img width="1440" alt="Screenshot 2024-09-16 at 6 44 40 PM" src="https://github.com/user-attachments/assets/a00e820a-f839-4987-8112-e250052f413a">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 44 28 PM" src="https://github.com/user-attachments/assets/d27bd4a8-f9c4-4af0-bd83-b6ed11e1d636">
 
 
-<img width="1440" alt="Screenshot 2024-09-16 at 6 44 55 PM" src="https://github.com/user-attachments/assets/cf74fc88-fb94-4d7d-8df0-004f9c3cca8a">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 44 40 PM" src="https://github.com/user-attachments/assets/c47e9d95-7fa0-460a-9ff7-f9c5722cc15d">
 
 
-<img width="1440" alt="Screenshot 2024-09-16 at 6 44 55 PM" src="https://github.com/user-attachments/assets/ed54b344-16a7-467a-a49f-f003c9fee891">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 44 55 PM" src="https://github.com/user-attachments/assets/453e82e0-92eb-4a75-a789-f614da0c5bf5">
 
-<img width="1440" alt="Screenshot 2024-09-17 at 1 31 28 PM" src="https://github.com/user-attachments/assets/42efba20-279d-48c4-98a8-2812d869cb82">
+<img width="1440" alt="Screenshot 2024-09-16 at 6 47 57 PM" src="https://github.com/user-attachments/assets/30a89b33-fe7d-4959-9f56-72fc2440c038">
+<img width="1440" alt="Screenshot 2024-09-17 at 1 31 37 PM" src="https://github.com/user-attachments/assets/d07e58c7-a7ec-48be-b1d8-000d6b8ddbf9">
 
 
-
+<img width="1440" alt="Screenshot 2024-09-17 at 1 31 28 PM" src="https://github.com/user-attachments/assets/fb0160b7-e6cd-4559-8dca-66fd2921ad04">
 
 The frontend is deployed using Netlify, while the backend is hosted on Render. This project has given me a great opportunity to learn and utilize both platforms effectively.
 
